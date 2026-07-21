@@ -1,0 +1,6 @@
+{
+  "name": "Curato Search",
+  "description": "An elegant, highly polished search and curation interface for design resources, developer tools, and learning materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
